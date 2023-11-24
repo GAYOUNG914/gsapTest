@@ -75,7 +75,7 @@ gsap.registerPlugin(ScrollTrigger);
 		const $sectionLottie = $wrap.querySelector('.section-lottie');
 		const animation = lottie.loadAnimation({
 			container: $sectionLottie.querySelector('.sticky'),
-			path: './resources/125505-animation-success-back.json',
+			path: './resources/125505-animation-success-back-1.json',
 			renderer: 'svg',
 			loop: false,
 			autoplay: false
